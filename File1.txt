@@ -1,2 +1,4 @@
-Hello everyone,
-Welcome to Makeskilled.
+a='Hii'
+b='mom'
+
+print(a==a[::-1]) 
