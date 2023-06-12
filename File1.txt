@@ -1,4 +1,4 @@
 a='Hii'
-b='mom'
+b='DAD'
 
 print(a==a[::-1]) 

@@ -1,1 +1,1 @@
-This file is for test branch.
+print('This file is for test branch.')
